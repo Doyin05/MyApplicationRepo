@@ -1,2 +1,0 @@
-# MyApplicationRepo
-My application repo
